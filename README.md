@@ -59,3 +59,4 @@ The example HTML file includes following code:
 ```
 
 # Live URL
+https://shrikumarinfotech.github.io/character-counter/
